@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224532340389",
+    "project_id": "cotton-disease-app",
+    "storage_bucket": "cotton-disease-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224532340389:android:23c3ace73025af2106b74c",
+        "android_client_info": {
+          "package_name": "com.example.cotton_disease_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224532340389-t1dpnkptvcc4fspjm9iepj742dr5hs04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cotton_disease_app",
+            "certificate_hash": "ad5491f97992688aabf9e14344ea5b0d6bc97b36"
+          }
+        },
+        {
+          "client_id": "224532340389-2886uit36lf4f6734sokm0ij5bibk7m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB68iJXr6d7iki_ZmBTN3IsOMekOg3chk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224532340389-2886uit36lf4f6734sokm0ij5bibk7m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

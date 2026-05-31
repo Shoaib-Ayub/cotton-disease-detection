@@ -1,0 +1,7 @@
+american_bollworm
+aphid_colony
+jassid_leafhopper
+mealybug
+pink_bollworm
+thrips
+whitefly_adult
